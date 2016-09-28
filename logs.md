@@ -20,6 +20,7 @@ http://www.zeit.de/2007/24/N-Eulersche-Zahl
 http://mathworld.wolfram.com/HeartCurve.html
 http://mathworld.wolfram.com/LogarithmicSpiral.html
 http://mathworld.wolfram.com/GoldenRatio.html
+http://www.livescience.com/37704-phi-golden-ratio.html
 
 
 Great post, thanks. Actually economists are very fond of e and ln for lots of reasons, including the ones you mention (we use calculus too) along with others. For example, we like that ln(1+x)=x (approximately, for small x); this is nice for dealing with interest rates. Also (and related), we like that ln differences approximate growth rates.
